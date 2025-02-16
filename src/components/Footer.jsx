@@ -7,18 +7,18 @@ const Footer = () => {
       <div className="screen-max-width">
         <div>
           <p className="font-semibold text-gray text-xs">
-            More ways to shop: {' '}
+            More ways to connect to: {' '}
             <span className="underline text-blue">
-            Find an Apple Store {' '}
+            Kuldeep Vyas {' '}
             </span>
-            or {' '}
+            you can connect on linkedin{' '}
             <span className="underline text-blue">
-            other retailer
+            kuldeep-vyas-0367311b5
             </span>{' '}
-            near you.
+            
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 000800-040-1966
+            Or call 8003349703 for more info
           </p>
         </div>
 
